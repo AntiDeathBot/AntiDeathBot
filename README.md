@@ -8,9 +8,10 @@
 <body style="background:#2f3136; color:#fff; font-family: Arial, sans-serif; text-align:center; padding:40px 20px;">
 
 <h1 style="font-size:3em; margin-bottom:0.5em; color:#ff79c6; text-shadow: 0 0 12px #ff79c6;">
-  AntiDeath Server Bot 🤖✨
+  AntiDeath Server Discord Bot🤖✨
 </h1>
-
+<h2 style="font-size:3em; margin-bottom:0.5em; color:#ff79c6; text-shadow: 0 0 12px #ff79c6;">
+Constant Mini Games to remove boredness!
 <div style="font-size:2.5em; margin-bottom:1.5em;">
   🎉🎲🧩🎮🎉
 </div>
