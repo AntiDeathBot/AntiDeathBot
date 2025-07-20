@@ -11,16 +11,16 @@
   AntiDeath Server Discord Bot🤖✨
 </h1>
 <h2 style="font-size:3em; margin-bottom:0.5em; color:#ff79c6; text-shadow: 0 0 12px #ff79c6;">
-Constant Mini Games to remove boredness!
+Constant Mini Games to remove boredness!✨✨
 </h2>
 <div style="font-size:2.5em; margin-bottom:1.5em;">
-  🎉🎲🧩🎮🎉
+  🎉🎲🧩🎮
 </div>
 
 <p style="font-size:1.3em; max-width:700px; margin: 0 auto 2em; line-height:1.5;">
-  AntiDeath Server Bot is your friendly Discord helper that brings <strong>fun mini games</strong> every day to your server!  
-  From <em>trivia</em> and <em>word puzzles</em> to exciting <em>quick challenges</em>, it keeps your community active and lively.  
-  Perfect to prevent your server from going quiet or dead — all with easy commands and nonstop entertainment!
+ 🎉 AntiDeath Server Bot is your friendly Discord helper that brings <strong>🎮fun mini games🎮</strong> every day to your server!  
+  From <em>🎲trivia🎲</em> and <em>🧩word puzzles🧩</em> to exciting <em>quick challenges</em>, it keeps your community active and lively.  
+  Perfect to prevent your server from going quiet or dead — all with easy commands and nonstop entertainment!🎉
 </p>
 
 <a href="https://discord.com/oauth2/authorize?client_id=1396570075447951430&permissions=8&integration_type=0&scope=bot" 
