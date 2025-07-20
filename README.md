@@ -14,7 +14,6 @@
 Constant Mini Games to remove boredness!✨✨
 </h2>
 <div style="font-size:2.5em; margin-bottom:1.5em;">
-  🎉🎲🧩🎮
 </div>
 
 <p style="font-size:1.3em; max-width:700px; margin: 0 auto 2em; line-height:1.5;">
