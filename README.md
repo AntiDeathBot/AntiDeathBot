@@ -19,7 +19,7 @@ Constant Mini Games to remove boredness!✨✨
 <p style="font-size:1.3em; max-width:700px; margin: 0 auto 2em; line-height:1.5;">
  🎉 AntiDeath Server Bot is your friendly Discord helper that brings <strong>🎮fun mini games🎮</strong> every day to your server!  
   From <em>🎲trivia🎲</em> and <em>🧩word puzzles🧩</em> to exciting <em>quick challenges</em>, it keeps your community active and lively.  
-  Perfect to prevent your server from going quiet or dead — all with easy commands and nonstop entertainment!🎉
+  Perfect to prevent your server from going quiet or dead, all with easy commands and nonstop entertainment!🎉
 </p>
 
 <a href="https://discord.com/oauth2/authorize?client_id=1396570075447951430&permissions=8&integration_type=0&scope=bot" 
