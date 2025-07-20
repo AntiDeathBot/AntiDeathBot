@@ -12,6 +12,7 @@
 </h1>
 <h2 style="font-size:3em; margin-bottom:0.5em; color:#ff79c6; text-shadow: 0 0 12px #ff79c6;">
 Constant Mini Games to remove boredness!
+</h2>
 <div style="font-size:2.5em; margin-bottom:1.5em;">
   🎉🎲🧩🎮🎉
 </div>
